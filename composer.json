@@ -1,0 +1,16 @@
+{
+    "name": "arse/php-command-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Arse\\PhpCommandTest\\": "Classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lazzytchik",
+            "email": "lazzytchik008@gmail.com"
+        }
+    ],
+    "require": {}
+}
