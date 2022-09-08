@@ -3,7 +3,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Arse\\PhpCommandTest\\": "Classes/"
+            "Arse\\PhpCommandTest\\": "classes"
         }
     },
     "authors": [
